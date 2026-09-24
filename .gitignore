@@ -1,0 +1,13 @@
+# Credenciais — nunca versionar
+.env
+
+# Arquivos gerados em runtime
+olt/dados_atualizados*.csv
+olt/falhas_manuais*.csv
+olt/acs_*.log
+
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+*.venv
