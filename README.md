@@ -1,4 +1,4 @@
-# Fiberhome OLT — ACS Auto-Configurator
+# Fiberhome ONT — ACS Auto-Configurator
 
 Script Python para consulta automática de ONUs via SSH em OLTs Fiberhome e aplicação em massa da URL do ACS (TR-069), com controle de falhas, retentativa e geração de relatórios.
 
