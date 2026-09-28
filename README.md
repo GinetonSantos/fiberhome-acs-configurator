@@ -19,7 +19,7 @@ Para isso:
 
 ## Compatibilidade
 
-| Equipamento | Firmware suportado |
+| Equipamento OLT | Firmware suportado |
 |---|---|
 | Fiberhome AN5516-01 | RP1000 ~ RP1400 |
 | Fiberhome AN5516-06 | RP1000 ~ RP1400 |
